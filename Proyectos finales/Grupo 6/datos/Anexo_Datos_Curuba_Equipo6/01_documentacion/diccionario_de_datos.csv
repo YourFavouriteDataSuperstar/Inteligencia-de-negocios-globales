@@ -1,0 +1,34 @@
+archivo,campo,tipo,unidad,definicion,fuente,periodo
+03_datos_limpios/t1_exportadores_081090_ancho.csv,codigo_tm,texto,-,Codigo numerico de economia reportante (estilo UN Comtrade),Trade Map (ITC),2016-2025
+03_datos_limpios/t1_exportadores_081090_ancho.csv,pais,texto,-,Nombre de la economia exportadora,Trade Map (ITC),2016-2025
+03_datos_limpios/t1_exportadores_081090_ancho.csv,2016..2025,numerico,USD miles,Valor exportado de la subpartida 081090 al mundo,Trade Map (ITC),2016-2025
+03_datos_limpios/t2_exportadores_081090_largo.csv,anio,entero,anio,Anio de referencia del flujo,Trade Map (ITC),2016-2025
+03_datos_limpios/t2_exportadores_081090_largo.csv,exportaciones_usd_miles,numerico,USD miles,Valor exportado (formato largo/tidy),Trade Map (ITC),2016-2025
+03_datos_limpios/t3_mundo_081090.csv,exportaciones_mundiales_usd_miles,numerico,USD miles,Fila Mundo del archivo crudo: total mundial exportado,Trade Map (ITC),2016-2025
+03_datos_limpios/a1_comercio_mundial_equipo.csv,region,texto,-,Agrupacion regional usada por el equipo en el Conjunto A,Elaboracion del equipo,2019-2024
+03_datos_limpios/a1_comercio_mundial_equipo.csv,2019..2024,numerico,USD miles,Comercio mundial de pasifloras/frutas estimado por region,Elaboracion del equipo,2019-2024
+03_datos_limpios/a2_comercio_mundial_derivados.csv,participacion_*_pct,numerico,%,Participacion de cada region en el total del Conjunto A,Calculado,2019-2024
+03_datos_limpios/a2_comercio_mundial_derivados.csv,cagr_2019_2024_pct,numerico,%,Tasa de crecimiento anual compuesta del total,Calculado,2019-2024
+03_datos_limpios/b1_macro_colombia.csv,variable,texto,-,Variable macroeconomica de Colombia (PIB agricola / TRM / IPC),Banco Mundial WDI (declarado por el equipo),2019-2024
+03_datos_limpios/c1_produccion_curuba.csv,metrica,texto,ton / USD miles,Produccion de pasifloras y curuba y valor exportado imputado,Agronet (declarado por el equipo),2019-2024
+03_datos_limpios/c2_produccion_derivados.csv,participacion_curuba_en_pasifloras_pct,numerico,%,Produccion de curuba sobre produccion total de pasifloras,Calculado,2019-2024
+03_datos_limpios/c2_produccion_derivados.csv,factor_imputacion_aplicado,numerico,proporcion,Factor de 0.038 aplicado sobre la base de comercio de America Latina,Supuesto declarado del equipo,2019-2024
+03_datos_limpios/c2_produccion_derivados.csv,diferencia,numerico,USD miles,Diferencia entre el valor imputado recalculado y el publicado en la ficha,Calculado,2019-2024
+03_datos_limpios/d1_flujos_pais_081090.csv,base,texto,-,Base de calculo declarada: subpartida 0810.90 agregada,Elaboracion del equipo,2019-2024
+03_datos_limpios/d1_flujos_pais_081090.csv,IBCR_calculado,numerico,indice [-1 a 1],(X-M)/(X+M) recalculado desde X y M de la misma fila,Calculado,2019-2024
+03_datos_limpios/d1_flujos_pais_081090.csv,GL_calculado,numerico,indice [0 a 1],1-|IBCR| sobre la misma base,Calculado,2019-2024
+03_datos_limpios/d2_flujos_curuba_colombia.csv,importaciones_M_usd_miles,numerico,USD miles,Importaciones de curuba derivadas del GL publicado (0.021),Derivado,2019-2024
+04_indicadores_reales/r1_participacion_mercado_top25_pct.csv,2016..2025,numerico,%,Cuota de cada economia en las exportaciones mundiales de 081090,Calculado sobre Trade Map,2016-2025
+04_indicadores_reales/r2_ranking_exportadores.csv,puesto_*,entero,puesto,Posicion mundial de la economia entre exportadores de 081090,Calculado sobre Trade Map,2016-2025
+04_indicadores_reales/r3_hhi_oferta_mundial.csv,HHI_oferta_mundial,numerico,indice [0 a 1],Suma de cuadrados de las cuotas de exportacion de todas las economias,Calculado sobre Trade Map,2016-2025
+04_indicadores_reales/r3_hhi_oferta_mundial.csv,numero_equivalente_exportadores,numerico,numero,1/HHI: numero de competidores de tamano equivalente,Calculado,2016-2025
+04_indicadores_reales/r4_crecimiento_y_cuota.csv,cagr_2016_2025_pct,numerico,%,Tasa de crecimiento anual compuesta de las exportaciones,Calculado sobre Trade Map,2016-2025
+04_indicadores_reales/r5_colombia_vs_competidores_andinos.csv,razon_ecuador_colombia,numerico,veces,Exportaciones de Ecuador divididas entre las de Colombia,Calculado sobre Trade Map,2016-2025
+04_indicadores_reales/r6_cobertura_y_calidad.csv,cobertura_pct,numerico,%,Porcentaje de economias con dato reportado en el anio,Calculado sobre Trade Map,2016-2025
+05_indicadores_equipo/i1_posicion_comercial.csv,IBCR_publicado_ficha,numerico,indice [-1 a 1],Valor de IBCR tal como aparece en la ficha tecnica entregada,Ficha tecnica Equipo 6,2019-2024
+05_indicadores_equipo/i2_concentracion_estructura.csv,HHI_destinos,numerico,indice [0 a 1],Concentracion de destinos de exportacion del producto,Ficha tecnica Equipo 6,2019-2024
+05_indicadores_equipo/i2_concentracion_estructura.csv,numero_equivalente_destinos,numerico,numero,1/HHI: destinos de tamano equivalente,Calculado,2019-2024
+05_indicadores_equipo/i3_ventaja_comparativa.csv,balassa_rca,numerico,indice,Indice de Ventaja Comparativa Revelada de Balassa (umbral 1),Ficha tecnica Equipo 6,2019-2024
+05_indicadores_equipo/i3_ventaja_comparativa.csv,rsca_recalculado,numerico,indice [-1 a 1],(RCA-1)/(RCA+1) recalculado,Calculado,2019-2024
+05_indicadores_equipo/i4_matriz_multicriterio.csv,peso,numerico,proporcion,Ponderacion del criterio en la matriz multicriterio,Ficha tecnica Equipo 6,2026
+05_indicadores_equipo/i4_matriz_multicriterio.csv,Puntaje ponderado total (recalculado),numerico,puntaje 0-5,Suma producto de puntajes por pesos,Calculado,2026

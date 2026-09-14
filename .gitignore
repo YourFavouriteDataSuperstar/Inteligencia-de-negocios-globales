@@ -12,3 +12,12 @@ venv/
 # Sistema operativo
 .DS_Store
 Thumbs.db
+
+# Proyectos finales: no se publican las fichas tecnicas (nombres de estudiantes)
+# ni los reportes EMIS (restriccion de redistribucion); si las salidas de los cuadernos
+Proyectos finales/**/*.pdf
+Proyectos finales/**/*.docx
+Proyectos finales/Grupo 4/datos/*.xlsx
+Proyectos finales/**/salidas/
+Proyectos finales/**/datos_crudos/
+Proyectos finales/Grupo 6/datos/Anexo_Datos_Curuba_Equipo6/00_LEEME.md

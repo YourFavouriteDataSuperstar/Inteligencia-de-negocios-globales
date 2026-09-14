@@ -1,0 +1,7 @@
+pais,base,importaciones_M_usd_miles,exportaciones_X_usd_miles,IBCR_calculado,IAC_pct,clasificacion_comercial,IBCR_publicado_ficha,coincide_con_ficha
+Colombia,Subpartida 0810.90 agregada,450,2091.3,0.646,38.2,Pais origen / exportador neto,0.646,Si
+Paises Bajos,Subpartida 0810.90 agregada,18400,15200.0,-0.095,154.2,Hub de reexportacion / distribuidor UE,-0.095,Si
+Espana,Subpartida 0810.90 agregada,8200,3100.0,-0.451,62.8,Mercado mixto (consumo / reexportacion regional),-0.451,Si
+Alemania,Subpartida 0810.90 agregada,12500,1800.0,-0.748,87.1,Mercado de consumo final masivo,-0.748,Si
+Canada,Subpartida 0810.90 agregada,5600,120.0,-0.958,65.4,Mercado de consumo final puro,-0.958,Si
+Emiratos Arabes Unidos,Subpartida 0810.90 agregada,6800,2400.0,-0.478,168.5,Hub logistico / reexportacion Medio Oriente,-0.478,Si

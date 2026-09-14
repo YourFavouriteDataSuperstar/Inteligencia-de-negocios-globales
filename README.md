@@ -33,6 +33,35 @@ Los cuadernos 1 y 2 responden esa pregunta con las métricas básicas. Los cuade
 
 Los cuadernos 3 y 4 son independientes entre sí y de los anteriores: puedes abrir cualquiera de los dos directamente.
 
+---
+
+## Proyectos finales
+
+Cada grupo tiene **su propio cuaderno**, construido a partir del análisis que propuso en su ficha técnica. El cuaderno **calcula las métricas y saca las gráficas; no las interpreta**. La interpretación es el trabajo del equipo y se escribe dentro del mismo cuaderno.
+
+| Grupo | Tema | Lo que calcula | Abrir |
+|---|---|---|---|
+| 1 | **Uchuva** (HS 081090) | Participación por destino, CR3, HHI, FOB/kg, CAGR, Balassa, PIB de candidatos, matriz de mercados | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourFavouriteDataSuperstar/Inteligencia-de-negocios-globales/blob/main/Proyectos%20finales/Grupo%201/Grupo_1_Uchuva.ipynb) |
+| 2 | **Cacao en grano** (HS 1801) | Evolución y concentración de destinos, RCA, cuota en cada mercado, competidores, FAOSTAT, matriz ponderada, impacto social | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourFavouriteDataSuperstar/Inteligencia-de-negocios-globales/blob/main/Proyectos%20finales/Grupo%202/Grupo_2_Cacao.ipynb) |
+| 3 | **Café verde** (HS 090111) | Participación y evolución por destino, CR4, HHI, mercados importadores, proveedores de Alemania, Japón y Corea, matriz comparativa, escenarios | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourFavouriteDataSuperstar/Inteligencia-de-negocios-globales/blob/main/Proyectos%20finales/Grupo%203/Grupo_3_Cafe.ipynb) |
+| 4 | **Esmeraldas** (HS 710391, cap. 71) | HHI, Theil, crecimiento, RCA/RSCA/NRCA, apertura e IBCR, Grubel-Lloyd, mercados, ficha EMIS, tablero | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourFavouriteDataSuperstar/Inteligencia-de-negocios-globales/blob/main/Proyectos%20finales/Grupo%204/Grupo_4_Esmeraldas.ipynb) |
+| 5 | **Cacao y EUDR** (HS 1801) | Desempeño y CAGR, rankings mundiales, HHI y Top 3/5/10, Balassa y Vollrath, mercados UE, precio implícito, brechas EUDR | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourFavouriteDataSuperstar/Inteligencia-de-negocios-globales/blob/main/Proyectos%20finales/Grupo%205/Grupo_5_Cacao_EUDR.ipynb) |
+| 6 | **Curuba** (HS 081090) | Oferta mundial, HHI mundial, IBCR/IAC/CE, HHI y Theil de destinos, Grubel-Lloyd, Balassa, RSCA, Lafay, matriz multicriterio, sensibilidad | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourFavouriteDataSuperstar/Inteligencia-de-negocios-globales/blob/main/Proyectos%20finales/Grupo%206/Grupo_6_Curuba.ipynb) |
+| 7 | **Rosas** (HS 060311) | Series y CAGR por destino, HHI y CR3, BCR, cuota en cada destino, valor unitario, oferta mundial, RCA/RSCA/NRCA, Lafay, matriz 0-100 con sensibilidad | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourFavouriteDataSuperstar/Inteligencia-de-negocios-globales/blob/main/Proyectos%20finales/Grupo%207/Grupo_7_Rosas.ipynb) |
+
+### Cómo completar y entregar el cuaderno
+
+1. **Abrir.** Haz clic en el botón de tu grupo. El cuaderno se abre en Colab en modo `"github"`: descarga solo sus datos del repositorio. No tienes que subir nada.
+2. **Ejecutar.** `Entorno de ejecución → Ejecutar todas`. Cada sección calcula una métrica de tu ficha técnica, muestra la tabla y dibuja la gráfica.
+3. **Analizar.** Debajo de cada gráfica hay una celda de texto que dice **Análisis del equipo**. Haz doble clic y escribe qué muestra, qué significa para el caso y qué decisión habilita. Las celdas marcadas **editable** tienen pesos, puntajes o datos que el equipo debe llenar con su criterio y sus fuentes; cámbialos y vuelve a ejecutar.
+4. **Entregar.** `Archivo → Descargar → Descargar .ipynb` y sube ese archivo al aula virtual. Las tablas y figuras quedan también en la carpeta `salidas/` (panel izquierdo de Colab) para el informe escrito.
+
+**Grupo 4.** La sección EMIS pide subir los tres reportes de empresa cuando se ejecuta, porque tienen restricción de redistribución y no están en el repositorio. Si no los subes, esa sección se salta y el resto funciona igual.
+
+**Sobre los datos.** En `Proyectos finales/Grupo N/datos/` está lo que cada grupo entregó más lo que faltaba para calcular lo propuesto: series por destino de Trade Map, los rankings mundiales de HS 1801 y HS 090111, la producción de cacao de FAOSTAT. Los denominadores de Balassa (exportaciones totales de Colombia y del mundo) y los datos del Banco Mundial salen de `data/` del curso. Las fichas técnicas no se publican.
+
+---
+
 ## Estructura del repositorio
 
 ```
@@ -42,6 +71,11 @@ Los cuadernos 3 y 4 son independientes entre sí y de los anteriores: puedes abr
 │   ├── 02_Metricas_basicas_de_comercio_exterior.ipynb
 │   ├── 03_Concentracion_y_estructura_del_comercio.ipynb
 │   └── 04_Ventaja_comparativa_revelada.ipynb
+├── Proyectos finales/
+│   ├── Grupo 1/
+│   │   ├── Grupo_1_Uchuva.ipynb                        El cuaderno del grupo
+│   │   └── datos/                                       Lo que entregó el grupo + lo descargado para el cuaderno
+│   ├── Grupo 2/ ... Grupo 7/                            Misma estructura
 └── data/
     │
     │  Cuadernos 1 y 2 — el producto del caso

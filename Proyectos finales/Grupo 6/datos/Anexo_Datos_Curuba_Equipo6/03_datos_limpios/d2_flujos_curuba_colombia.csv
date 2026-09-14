@@ -1,0 +1,2 @@
+pais,base,exportaciones_X_usd_miles,importaciones_M_usd_miles,origen_del_dato_M,IBCR_calculado,GL_calculado
+Colombia,Curuba (flujos especificos del producto),2091.3,22.19,"Derivada: M = X*(1-|IBCR|)/(1+|IBCR|) con |IBCR| = 1 - GL publicado (0,021)",0.979,0.021

@@ -1,0 +1,11 @@
+objetivo,fuente_de_datos,variables_a_extraer,periodo,estado
+1,Trade Map (ITC),"Exportaciones e importaciones mundiales y bilaterales de la subpartida 0810.90: valor (USD), volumen, pais reportante y socio, participacion mundial",2019-2024,Cubierto parcialmente por 02_datos_crudos (exportadores 2016-2025)
+1,Banco Mundial - WDI,"PIB (nivel y crecimiento agricola), TRM promedio, inflacion IPC, exportaciones e importaciones totales de bienes y servicios",2019-2024,Pendiente de descarga
+1,Agronet - MinAgricultura (Red SISA),"Produccion nacional de pasifloras y curuba (ton), area sembrada y cosechada, rendimiento por hectarea, por departamento",2019-2024,Pendiente de descarga
+2,Trade Map,Exportaciones (X) e importaciones (M) de curuba / subpartida 0810.90 por pais,2019-2024 (promedio),Parcial
+2,Banco Mundial - WDI,"PIB, exportaciones e importaciones totales de bienes y servicios de cada pais",2019-2024,Pendiente
+2,Agronet,Produccion nacional imputada de curuba para el Coeficiente de Exportacion,2019-2024,Pendiente
+3,Trade Map,"Participacion de cada pais destino en el total exportado de curuba por Colombia (Sj), numero de destinos activos","2019-2024, foco en el anio mas reciente con cobertura completa",Pendiente (requiere vista por destino)
+3,Trade Map (vista de indicadores),Serie equivalente de la gulupa como producto de referencia,mismo periodo,Pendiente
+4,Trade Map,"Exportaciones de Colombia, Ecuador y Peru en 0810.90; exportaciones totales de cada pais; exportaciones mundiales de la subpartida y totales",2019-2024 o anio mas reciente con cobertura completa,Cubierto por 02_datos_crudos
+4,Trade Map,Balanza comercial del capitulo y del pais para el Indice de Lafay,mismo periodo,Pendiente

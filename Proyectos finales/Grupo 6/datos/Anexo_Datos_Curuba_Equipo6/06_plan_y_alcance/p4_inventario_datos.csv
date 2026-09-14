@@ -1,0 +1,6 @@
+fuente,contenido,formato,estado_en_este_anexo,ruta_en_el_paquete
+Trade Map (ITC),"Series de exportaciones e importaciones mundiales y bilaterales de la subpartida 0810.90, por pais reportante y socio",Archivo XLSX/CSV descargado desde trademap.org,"Descargado: exporting-economies_081090.xlsx (2016-2025, 160 economias)",02_datos_crudos/exporting-economies_081090.xlsx
+Banco Mundial - WDI,"PIB, tasa de cambio, inflacion e IPC, exportaciones e importaciones totales de bienes y servicios, Colombia y cinco mercados destino, 2019-2024",Archivos CSV (API_...csv) desde databank.worldbank.org,Pendiente,-
+Agronet - MinAgricultura (Red SISA),"Produccion, area sembrada / cosechada y rendimiento de pasifloras y curuba por departamento, 2019-2024",Reportes estadisticos descargables desde agronet.gov.co (hoja de calculo),Pendiente,-
+Legiscomex,"Detalle transaccional de exportaciones colombianas de curuba (precio FOB, importador, ruta, naviera)",Reportes exportables desde la plataforma (acceso institucional Universidad EAN),Pendiente,-
+Trade Map - vista de indicadores,Concentracion de destinos (HHI) y comportamiento comercial de la gulupa,Archivo CSV / vista de indicadores exportable desde trademap.org,Pendiente,-

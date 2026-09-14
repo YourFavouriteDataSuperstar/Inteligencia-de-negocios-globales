@@ -1,0 +1,10 @@
+id,tabla_afectada,valor_en_la_ficha,valor_en_este_anexo,motivo_del_cambio,impacto_en_las_conclusiones
+C1,Matriz multicriterio - Paises Bajos,4.55,4.60,Recalculo exacto de la suma producto de puntajes por pesos (4.5*0.30 + 5.0*0.25 + 4.5*0.20 + 5.0*0.15 + 3.5*0.10),Ninguno: conserva el primer puesto como mercado ancla
+C2,Matriz multicriterio - Alemania,4.02,4.12,Recalculo exacto de la suma producto,Ninguno: conserva el segundo puesto como mercado de expansion
+C3,Matriz multicriterio - Espana,3.85,3.90,Recalculo exacto de la suma producto,Ninguno: conserva el tercer puesto
+C4,Matriz multicriterio - Canada,2.95,3.00,Recalculo exacto de la suma producto,Ninguno: conserva el quinto puesto
+C5,Matriz multicriterio - E.A.U.,3.47,3.45,Recalculo exacto de la suma producto,Ninguno: conserva el cuarto puesto
+C6,Posicion comercial y Grubel-Lloyd,Una sola tabla mezclaba dos bases de calculo,Se separan en d1 (subpartida agregada) y d2 (curuba especifica),"Con M=450 el IBCR es +0.646 y el GL correspondiente seria 0.354, no 0.021; el GL publicado corresponde a una base de curuba con importaciones marginales (M derivada = 22.19)",Ninguno en la lectura: Colombia sigue siendo exportador neto y el comercio sigue siendo interindustrial en ambas bases
+C7,Concentracion y estructura,Solo HHI Theil y GL,"Se agregan numero equivalente de destinos, escala 0-10.000 y lectura de umbral",Enriquecimiento: el numero equivalente hace legible el HHI para audiencias no tecnicas,Ninguno: refuerza la lectura de fragmentacion
+C8,Ventaja comparativa,RSCA publicado sin verificacion,Se agrega columna rsca_recalculado y bandera de coincidencia,Verificacion de la identidad RSCA = (RCA-1)/(RCA+1),Ninguno: los tres valores coinciden con los publicados
+C9,Todo el anexo,Sin datos primarios,Se incorpora la descarga real de Trade Map (160 economias, 2016-2025),"El equipo aporto el archivo exporting-economies_081090.xlsx, Sustancial: permite calcular participacion de mercado, ranking y HHI de oferta con datos oficiales"

@@ -1,0 +1,53 @@
+REPORTE DE VALIDACION - ANEXO TECNICO DE DATOS
+Curuba (Passiflora mollissima) - Universidad EAN, Grupo 5, Equipo 6
+Generado por 07_scripts/03_validar_paquete.py el 2026-09-14
+==============================================================================
+
+Verificaciones ejecutadas: 13   |   Superadas: 13   |   Para revisar: 0
+
+------------------------------------------------------------------------------
+[     OK]  IBCR = (X-M)/(X+M) en los 6 mercados
+           diferencia maxima 0.000327 sobre 6 economias
+
+[     OK]  GL = 1 - |IBCR| en d1_flujos_pais_081090.csv
+           diferencia maxima 0.000000
+
+[     OK]  GL = 1 - |IBCR| en d2_flujos_curuba_colombia.csv
+           diferencia maxima 0.000000
+
+[     OK]  El GL publicado de la curuba reconcilia con la base d2
+           GL ficha 0.021 vs base curuba 0.021
+
+[     OK]  RSCA = (RCA-1)/(RCA+1) frente a lo publicado
+           diferencia maxima 0.000780 sobre 3 sectores
+
+[     OK]  Los pesos de la matriz suman 100 %
+           suma de pesos = 1.0000
+
+[     OK]  Puntaje ponderado = suma producto de puntajes por pesos
+           diferencia maxima 0.0050
+
+[     OK]  El ranking de mercados no cambia al recalcular
+           orden recalculado: Paises Bajos > Alemania > Espana > E.A.U. > Canada
+
+[     OK]  El valor imputado equivale al 3,8 % de la base comercial declarada
+           diferencia maxima 0.000 USD miles en 6 anios
+
+[     OK]  La participacion productiva de la curuba difiere del factor comercial del 3,8 %
+           participacion productiva 12.47%-12.57% frente a factor comercial 3,80%
+
+[     OK]  La suma de las economias reproduce el agregado Mundo
+           desviacion maxima 0.00 % en los 10 anios
+
+[     OK]  Numero equivalente = 1 / HHI
+           diferencia maxima 0.00054
+
+[     OK]  Anios con cobertura suficiente para ranking definitivo
+           anios con cobertura parcial: [2025]
+
+------------------------------------------------------------------------------
+
+Nota: este reporte verifica la consistencia interna de las cifras del anexo
+(identidades matematicas, sumas ponderadas y coherencia de las fuentes).
+No sustituye la validacion de las estimaciones frente a Legiscomex y Agronet,
+pendiente segun el registro de supuestos.

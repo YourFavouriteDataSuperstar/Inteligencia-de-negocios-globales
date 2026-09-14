@@ -1,0 +1,14 @@
+verificacion,estado,detalle
+IBCR = (X-M)/(X+M) en los 6 mercados,OK,diferencia maxima 0.000327 sobre 6 economias
+GL = 1 - |IBCR| en d1_flujos_pais_081090.csv,OK,diferencia maxima 0.000000
+GL = 1 - |IBCR| en d2_flujos_curuba_colombia.csv,OK,diferencia maxima 0.000000
+El GL publicado de la curuba reconcilia con la base d2,OK,GL ficha 0.021 vs base curuba 0.021
+RSCA = (RCA-1)/(RCA+1) frente a lo publicado,OK,diferencia maxima 0.000780 sobre 3 sectores
+Los pesos de la matriz suman 100 %,OK,suma de pesos = 1.0000
+Puntaje ponderado = suma producto de puntajes por pesos,OK,diferencia maxima 0.0050
+El ranking de mercados no cambia al recalcular,OK,orden recalculado: Paises Bajos > Alemania > Espana > E.A.U. > Canada
+"El valor imputado equivale al 3,8 % de la base comercial declarada",OK,diferencia maxima 0.000 USD miles en 6 anios
+"La participacion productiva de la curuba difiere del factor comercial del 3,8 %",OK,"participacion productiva 12.47%-12.57% frente a factor comercial 3,80%"
+La suma de las economias reproduce el agregado Mundo,OK,desviacion maxima 0.00 % en los 10 anios
+Numero equivalente = 1 / HHI,OK,diferencia maxima 0.00054
+Anios con cobertura suficiente para ranking definitivo,OK,anios con cobertura parcial: [2025]

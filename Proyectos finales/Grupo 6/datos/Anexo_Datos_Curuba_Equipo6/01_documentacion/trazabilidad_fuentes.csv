@@ -1,0 +1,9 @@
+tabla_del_anexo,fuente,identificador_exacto,ruta_o_url,fecha_de_descarga,responsable,notas
+02_datos_crudos/exporting-economies_081090.xlsx,Trade Map (ITC),"Subpartida 081090 - economias exportadoras - valores anuales 2016-2025",https://www.trademap.org,2026-09,Equipo 6,"Descarga original sin modificaciones; 161 filas (1 fila Mundo + 160 economias), valores en USD miles"
+03_datos_limpios/t1 t2 t3,Trade Map (ITC),Derivado del archivo crudo anterior,02_datos_crudos/exporting-economies_081090.xlsx,2026-09,Script 01_preparar_datos.py,"Limpieza: separacion de la fila Mundo, eliminacion de la etiqueta larga de producto, formato ancho y largo"
+03_datos_limpios/a1 b1 c1,Elaboracion del equipo,Conjuntos A B y C de la ficha tecnica,Equipo6_FichaTecnicaEstudio.pdf (seccion 3.1),2026-09,Equipo 6,Cifras estimadas declaradas en la ficha tecnica entregada
+03_datos_limpios/d1 d2,Elaboracion del equipo,Tablero de posicion comercial de la ficha tecnica,Equipo6_FichaTecnicaEstudio.pdf (seccion 3.2),2026-09,Equipo 6,Separados en dos bases de calculo declaradas
+04_indicadores_reales/*,Calculo propio,Script 02_calcular_indicadores.py,07_scripts/02_calcular_indicadores.py,2026-09,Script,Calculado integramente sobre la descarga real de Trade Map
+05_indicadores_equipo/*,Ficha tecnica Equipo 6,Secciones 3.2 a 3.5,Equipo6_FichaTecnicaEstudio.pdf,2026-09,Equipo 6,Con columnas de verificacion agregadas por el script de validacion
+06_plan_y_alcance/*,Ficha tecnica Equipo 6,Secciones 2 3 y 4,Equipo6_FichaTecnicaEstudio.pdf,2026-09,Equipo 6,Transcripcion estructurada del plan
+09_referencias/*,Ficha tecnica Equipo 6,Seccion 5,Equipo6_FichaTecnicaEstudio.pdf,2026-09,Equipo 6,Descompuesta en campos y exportada tambien en BibTeX

@@ -1,0 +1,211 @@
+reporterCd,reporterLabel,partnerCd,partnerLabel,productCd,productLabel,Value (kUSD),Balance (kUSD),Quantity,Quantity Unit,Unit Value,Unit Value Unit,Share World (%),Growth Value 5Y (%),Growth Value 2Y (%),Growth Quantity 5Y (%)
+000,Mundo,000,Mundo,090111,Café sin tostar ni descafeinar,50419870,-556491,7457888.000,Toneladas,6760.6097061259166133897425116,USD/Toneladas,100,19,50,0
+842,Estados Unidos de América,000,Mundo,090111,Café sin tostar ni descafeinar,9827420,-9576849,1293837.000,Toneladas,7595.5626558832372238543185888,USD/Toneladas,19.49116,13,56,-2
+276,Alemania,000,Mundo,090111,Café sin tostar ni descafeinar,7597964,-6318428,1115056.000,Toneladas,6813.9752622289822215207128611,USD/Toneladas,15.06938,20,47,0
+381,Italia,000,Mundo,090111,Café sin tostar ni descafeinar,4124292,-3984950,615736.000,Toneladas,6698.1498564319773409383242169,USD/Toneladas,8.179894,25,50,0
+392,Japón,000,Mundo,090111,Café sin tostar ni descafeinar,2384668,-2384362,354953.000,Toneladas,6718.2641082058751440331536851,USD/Toneladas,4.72962,15,50,-3
+056,Bélgica,000,Mundo,090111,Café sin tostar ni descafeinar,1867902,-405653,277987.000,Toneladas,6719.386158345534143682977981,USD/Toneladas,3.704694,11,44,-7
+724,España,000,Mundo,090111,Café sin tostar ni descafeinar,1750381,-1538119,292801.000,Toneladas,5978.0567689318000963111464783,USD/Toneladas,3.47161,28,50,1
+124,Canadá,000,Mundo,090111,Café sin tostar ni descafeinar,1683843,-1595995,223005.000,Toneladas,7550.6961727315531041904890025,USD/Toneladas,3.339643,17,63,3
+251,Francia,000,Mundo,090111,Café sin tostar ni descafeinar,1586275,-1546185,224999.000,Toneladas,7050.1424450775336779274574554,USD/Toneladas,3.146131,20,53,1
+757,Suiza,000,Mundo,090111,Café sin tostar ni descafeinar,1570455,-1548448,198098.000,Toneladas,7927.66711425658007652777918,USD/Toneladas,3.114754,16,35,1
+156,China,000,Mundo,090111,Café sin tostar ni descafeinar,1565732,-1393294,228051.000,Toneladas,6865.7098631446474692064494346,USD/Toneladas,3.105387,42,87,23
+410,"Corea, República de",000,Mundo,090111,Café sin tostar ni descafeinar,1212437,-1209650,167421.000,Toneladas,7241.8454076848185114173251862,USD/Toneladas,2.404682,17,48,0
+528,Países Bajos,000,Mundo,090111,Café sin tostar ni descafeinar,1205740,-787537,170906.000,Toneladas,7054.9892923595426725802487917,USD/Toneladas,2.391398,15,56,-4
+826,Reino Unido,000,Mundo,090111,Café sin tostar ni descafeinar,1086113,-949247,153702.000,Toneladas,7066.3556752677258591300048145,USD/Toneladas,2.154137,18,66,-1
+616,Polonia,000,Mundo,090111,Café sin tostar ni descafeinar,860126,-832320,132501.000,Toneladas,6491.4679889208383332955977691,USD/Toneladas,1.705927,25,65,1
+036,Australia,000,Mundo,090111,Café sin tostar ni descafeinar,780381,-775783,111885.000,Toneladas,6974.8491754926933905349242526,USD/Toneladas,1.547764,18,71,2
+643,"Rusia, Federación de",000,Mundo,090111,Café sin tostar ni descafeinar,761885,-759328,131451.000,Toneladas,5795.9619934424234125263406136,USD/Toneladas,1.511081,32,42,12
+792,Türkiye,000,Mundo,090111,Café sin tostar ni descafeinar,728800,-683507,110813.000,Toneladas,6576.8456769512602312003104329,USD/Toneladas,1.445462,35,91,11
+752,Suecia,000,Mundo,090111,Café sin tostar ni descafeinar,716723,-685164,88702.000,Toneladas,8080.122206940091542468039052,USD/Toneladas,1.421509,14,48,-2
+458,Malasia,000,Mundo,090111,Café sin tostar ni descafeinar,548610,-531255,91463.000,Toneladas,5998.1631916731355848813181286,USD/Toneladas,1.088083,23,38,-2
+682,Arabia Saudita,000,Mundo,090111,Café sin tostar ni descafeinar,544891,-496824,79183.000,Toneladas,6881.4139398608287132339012162,USD/Toneladas,1.080706,22,36,8
+818,Egipto,000,Mundo,090111,Café sin tostar ni descafeinar,397816,-393321,60067.000,Toneladas,6622.8711272412472738775034545,USD/Toneladas,0.7890064,25,42,12
+012,Argelia,000,Mundo,090111,Café sin tostar ni descafeinar,377133,-377133,90057.000,Toneladas,4187.7144475165728372031047004,USD/Toneladas,0.7479857,32,66,4
+246,Finlandia,000,Mundo,090111,Café sin tostar ni descafeinar,334384,-332157,42414.000,Toneladas,7883.8119488848021879568067148,USD/Toneladas,0.6631988,10,33,-4
+300,Grecia,000,Mundo,090111,Café sin tostar ni descafeinar,334193,-322523,44861.000,Toneladas,7449.521856400882726644524197,USD/Toneladas,0.6628192,25,61,5
+170,Colombia,000,Mundo,090111,Café sin tostar ni descafeinar,333278,5454944,62809.000,Toneladas,5306.214077600343899759588594,USD/Toneladas,0.6610057,-4,203,-20
+490,Taipei Chino,000,Mundo,090111,Café sin tostar ni descafeinar,320403,-312828,43585.000,Toneladas,7351.2217506022714236549271538,USD/Toneladas,0.6354688,18,58,5
+704,Viet Nam,000,Mundo,090111,Café sin tostar ni descafeinar,317308,5481207,71709.000,Toneladas,4424.939686789663779999721095,USD/Toneladas,0.6293321,102,20,63
+620,Portugal,000,Mundo,090111,Café sin tostar ni descafeinar,305761,-287559,53433.000,Toneladas,5722.3251548668425879138360189,USD/Toneladas,0.6064296,28,42,5
+699,India,000,Mundo,090111,Café sin tostar ni descafeinar,303708,1042266,77728.000,Toneladas,3907.317826265953067105804858,USD/Toneladas,0.6023574,23,29,-3
+579,Noruega,000,Mundo,090111,Café sin tostar ni descafeinar,276440,-270618,32919.000,Toneladas,8397.58194355843130107232905,USD/Toneladas,0.5482764,13,99,-2
+504,Marruecos,000,Mundo,090111,Café sin tostar ni descafeinar,265197,-265178,50055.000,Toneladas,5298.1120767156128258915193287,USD/Toneladas,0.5259778,29,16,1
+784,Emiratos Árabes Unidos,000,Mundo,090111,Café sin tostar ni descafeinar,252766,-251229,45635.000,Toneladas,5538.8627150213651802344691574,USD/Toneladas,0.501323,41,18,21
+400,Jordania,000,Mundo,090111,Café sin tostar ni descafeinar,212951,-212584,33818.000,Toneladas,6296.9720267313265125081317641,USD/Toneladas,0.4223555,20,64,2
+608,Filipinas,000,Mundo,090111,Café sin tostar ni descafeinar,208381,-207958,39563.000,Toneladas,5267.0677147840153678942446225,USD/Toneladas,0.4132922,33,3,1
+100,Bulgaria,000,Mundo,090111,Café sin tostar ni descafeinar,198486,-194427,29506.000,Toneladas,6726.9707856029282179895614451,USD/Toneladas,0.3936667,29,52,2
+032,Argentina,000,Mundo,090111,Café sin tostar ni descafeinar,192334,-192334,27511.000,Toneladas,6991.1671694958380284249936389,USD/Toneladas,0.3814642,23,63,-2
+208,Dinamarca,000,Mundo,090111,Café sin tostar ni descafeinar,166418,-154000,21147.000,Toneladas,7869.5796094008606421714664019,USD/Toneladas,0.3300643,26,85,8
+729,Sudán,000,Mundo,090111,Café sin tostar ni descafeinar,158922,-158922,47238.000,Toneladas,3364.2829925060332782928997841,USD/Toneladas,0.3151969,24,149,2
+688,Serbia,000,Mundo,090111,Café sin tostar ni descafeinar,152762,-152608,25277.000,Toneladas,6043.5178225264074059421608577,USD/Toneladas,0.3029802,21,42,-4
+764,Tailandia,000,Mundo,090111,Café sin tostar ni descafeinar,150368,-132474,34435.000,Toneladas,4366.7199070712937418324379265,USD/Toneladas,0.2982318,11,-39,-10
+484,México,000,Mundo,090111,Café sin tostar ni descafeinar,145403,638003,28711.000,Toneladas,5064.3655741701786771620633207,USD/Toneladas,0.2883843,68,20,34
+376,Israel,000,Mundo,090111,Café sin tostar ni descafeinar,139736,-139736,21099.000,Toneladas,6622.8731219489075311626143419,USD/Toneladas,0.2771447,17,63,3
+360,Indonesia,000,Mundo,090111,Café sin tostar ni descafeinar,137043,2362944,29231.000,Toneladas,4688.2761451883274605726796894,USD/Toneladas,0.2718032,59,-21,33
+710,Sudáfrica,000,Mundo,090111,Café sin tostar ni descafeinar,136652,-125860,21460.000,Toneladas,6367.7539608574091332712022367,USD/Toneladas,0.2710274,25,39,1
+642,Rumania,000,Mundo,090111,Café sin tostar ni descafeinar,128965,-128022,18567.000,Toneladas,6945.9255668659449561049173264,USD/Toneladas,0.2557821,21,51,2
+214,República Dominicana,000,Mundo,090111,Café sin tostar ni descafeinar,124846,-119770,20995.000,Toneladas,5946.4634436770659680876399143,USD/Toneladas,0.2476136,267,307,10
+554,Nueva Zelandia,000,Mundo,090111,Café sin tostar ni descafeinar,123766,-120983,15665.000,Toneladas,7900.7979572294924992020427705,USD/Toneladas,0.2454716,17,77,3
+203,República Checa,000,Mundo,090111,Café sin tostar ni descafeinar,115699,-113706,16430.000,Toneladas,7041.935483870967741935483871,USD/Toneladas,0.229471,14,36,-3
+434,Libia Estado de,000,Mundo,090111,Café sin tostar ni descafeinar,105575,-105575,19355.000,Toneladas,5454.662877809351588736760527,USD/Toneladas,0.2093913,38,17,9
+070,Bosnia y Herzegovina,000,Mundo,090111,Café sin tostar ni descafeinar,105303,-105190,17843.000,Toneladas,5901.6421005436305553998767023,USD/Toneladas,0.2088526,20,37,-3
+705,Eslovenia,000,Mundo,090111,Café sin tostar ni descafeinar,96593,-63891,14820.000,Toneladas,6517.7462887989203778677462888,USD/Toneladas,0.1915773,19,51,-2
+422,Líbano,000,Mundo,090111,Café sin tostar ni descafeinar,92090,-91726,16879.000,Toneladas,5455.8919367261093666686415072,USD/Toneladas,0.1826465,31,-16,5
+152,Chile,000,Mundo,090111,Café sin tostar ni descafeinar,85576,-85514,14082.000,Toneladas,6076.9777020309615111489845192,USD/Toneladas,0.169726,36,58,9
+191,Croacia,000,Mundo,090111,Café sin tostar ni descafeinar,76962,-75679,12234.000,Toneladas,6290.8288376655223148602256008,USD/Toneladas,0.1526422,22,34,-3
+040,Austria,000,Mundo,090111,Café sin tostar ni descafeinar,76828,-71516,11084.000,Toneladas,6931.4326957776975821003247925,USD/Toneladas,0.1523771,16,37,-4
+372,Irlanda,000,Mundo,090111,Café sin tostar ni descafeinar,71145,-67836,8400.000,Toneladas,8469.642857142857142857142857,USD/Toneladas,0.1411051,15,59,2
+788,Túnez,000,Mundo,090111,Café sin tostar ni descafeinar,70480,-70465,15859.000,Toneladas,4444.1641969859385837694684406,USD/Toneladas,0.1397869,19,-1,-4
+051,Armenia,000,Mundo,090111,Café sin tostar ni descafeinar,70113,-63876,13193.000,Toneladas,5314.4091563708026984006670204,USD/Toneladas,0.1390583,26,31,-1
+414,Kuwait,000,Mundo,090111,Café sin tostar ni descafeinar,65796,-65793,8446.000,Toneladas,7790.1965427421264503907174994,USD/Toneladas,0.1304971,20,49,3
+702,Singapur,000,Mundo,090111,Café sin tostar ni descafeinar,59183,-28548,9647.000,Toneladas,6134.8605784181610863480874883,USD/Toneladas,0.1173797,21,20,1
+499,Montenegro,000,Mundo,090111,Café sin tostar ni descafeinar,51826,-51826,9766.000,Toneladas,5306.7786197010034814663116936,USD/Toneladas,0.1027886,39,144,14
+804,Ucrania,000,Mundo,090111,Café sin tostar ni descafeinar,50457,-50446,7474.000,Toneladas,6751.003478726251003478726251,USD/Toneladas,0.1000737,2,27,-15
+760,República Árabe Siria,000,Mundo,090111,Café sin tostar ni descafeinar,46652,-46228,8838.000,Toneladas,5278.5698121747001584068793845,USD/Toneladas,0.09252617,5,-10,-16
+344,"Hong Kong, China",000,Mundo,090111,Café sin tostar ni descafeinar,39680,-34118,4749.000,Toneladas,8355.443251210781217098336492,USD/Toneladas,0.07869963,18,42,-1
+703,Eslovaquia,000,Mundo,090111,Café sin tostar ni descafeinar,38084,-35063,0.000,No medida,,,0.07553371,17,45,
+348,Hungría,000,Mundo,090111,Café sin tostar ni descafeinar,34928,-34661,5511.000,Toneladas,6337.8697151152240972600254037,USD/Toneladas,0.06927428,30,27,6
+512,Omán,000,Mundo,090111,Café sin tostar ni descafeinar,33063,-32279,5321.000,Toneladas,6213.6816387897011839879721857,USD/Toneladas,0.06557617,26,-6,8
+008,Albania,000,Mundo,090111,Café sin tostar ni descafeinar,32891,-32803,6180.000,Toneladas,5322.1682847896440129449838188,USD/Toneladas,0.06523361,35,87,9
+440,Lituania,000,Mundo,090111,Café sin tostar ni descafeinar,30048,-23405,4019.000,Toneladas,7476.4866882309032097536700672,USD/Toneladas,0.05959555,26,48,11
+268,Georgia,000,Mundo,090111,Café sin tostar ni descafeinar,28000,-25538,5190.000,Toneladas,5394.9903660886319845857418112,USD/Toneladas,0.05553322,22,48,-2
+076,Brasil,000,Mundo,090111,Café sin tostar ni descafeinar,27183,14835986,4958.000,Toneladas,5482.6542960871319080274304155,USD/Toneladas,0.05391346,45,2070204,16
+112,Belarús,000,Mundo,090111,Café sin tostar ni descafeinar,24805,-24805,3382.000,Toneladas,7334.4175044352454169130691898,USD/Toneladas,0.04919682,43,61,18
+188,Costa Rica,000,Mundo,090111,Café sin tostar ni descafeinar,24596,445518,6567.000,Toneladas,3745.3936348408710217755443886,USD/Toneladas,0.04878213,-1,40,-12
+364,"Irán, República Islámica del",000,Mundo,090111,Café sin tostar ni descafeinar,22642,-22613,4637.000,Toneladas,4882.8984257062756092301056718,USD/Toneladas,0.0449063,24,80,0
+398,Kazajstán,000,Mundo,090111,Café sin tostar ni descafeinar,21235,-19251,2564.000,Toneladas,8281.981279251170046801872075,USD/Toneladas,0.04211708,62,98,41
+428,Letonia,000,Mundo,090111,Café sin tostar ni descafeinar,21071,-20819,2493.000,Toneladas,8452.065784195748094665062174,USD/Toneladas,0.04179106,34,59,6
+233,Estonia,000,Mundo,090111,Café sin tostar ni descafeinar,17752,-107,2442.000,Toneladas,7269.4512694512694512694512695,USD/Toneladas,0.03520834,81,-37,68
+858,Uruguay,000,Mundo,090111,Café sin tostar ni descafeinar,16703,-16703,3583.000,Toneladas,4661.7359754395757744906502931,USD/Toneladas,0.03312698,19,51,11
+218,Ecuador,000,Mundo,090111,Café sin tostar ni descafeinar,12171,9171,2302.000,Toneladas,5287.1416159860990443092962641,USD/Toneladas,0.02413956,286,-20,187
+591,Panamá,000,Mundo,090111,Café sin tostar ni descafeinar,12151,25855,2042.000,Toneladas,5950.5386875612144955925563173,USD/Toneladas,0.02409953,22,-32,0
+196,Chipre,000,Mundo,090111,Café sin tostar ni descafeinar,10839,-10488,1531.000,Toneladas,7079.6864794252122795558458524,USD/Toneladas,0.02149748,22,83,3
+634,Qatar,000,Mundo,090111,Café sin tostar ni descafeinar,9566,-9563,1314.000,Toneladas,7280.0608828006088280060882801,USD/Toneladas,0.01897257,37,115,33
+442,Luxemburgo,000,Mundo,090111,Café sin tostar ni descafeinar,7945,-6143,0.000,No medida,,,0.01575768,17,79,
+352,Islandia,000,Mundo,090111,Café sin tostar ni descafeinar,7901,-7897,938.000,Toneladas,8423.240938166311300639658849,USD/Toneladas,0.01566954,11,93,-1
+340,Honduras,000,Mundo,090111,Café sin tostar ni descafeinar,7875,2387387,5682.000,Toneladas,1385.955649419218585005279831,USD/Toneladas,0.01561936,270,384,157
+404,Kenya,000,Mundo,090111,Café sin tostar ni descafeinar,6824,395709,1054.000,Toneladas,6474.3833017077798861480075901,USD/Toneladas,0.01353441,-23,3,-31
+446,"Macao, China",000,Mundo,090111,Café sin tostar ni descafeinar,6355,-6355,917.000,Toneladas,6930.2071973827699018538713195,USD/Toneladas,0.01260416,42,25,23
+408,"Corea, República Popular Democrática de",000,Mundo,090111,Café sin tostar ni descafeinar,5371,-5371,1555.000,Toneladas,3454.0192926045016077170418006,USD/Toneladas,0.01065246,93,229,64
+116,Camboya,000,Mundo,090111,Café sin tostar ni descafeinar,4845,-4829,1256.000,Toneladas,3857.4840764331210191082802548,USD/Toneladas,0.009609473,59,53,43
+048,Bahrein,000,Mundo,090111,Café sin tostar ni descafeinar,4661,-4633,259.000,Toneladas,17996.138996138996138996138996,USD/Toneladas,0.009243713,52,155,
+132,Cabo Verde,000,Mundo,090111,Café sin tostar ni descafeinar,4559,-4559,680.000,Toneladas,6704.4117647058823529411764706,USD/Toneladas,0.009043005,35,74,5
+496,Mongolia,000,Mundo,090111,Café sin tostar ni descafeinar,4368,-4368,559.000,Toneladas,7813.9534883720930232558139535,USD/Toneladas,0.008662529,49,97,37
+600,Paraguay,000,Mundo,090111,Café sin tostar ni descafeinar,4245,-4243,701.000,Toneladas,6055.6348074179743223965763195,USD/Toneladas,0.008418983,25,69,3
+192,Cuba,000,Mundo,090111,Café sin tostar ni descafeinar,3988,1472,642.000,Toneladas,6211.838006230529595015576324,USD/Toneladas,0.007909183,-17,-38,-28
+044,Bahamas,000,Mundo,090111,Café sin tostar ni descafeinar,3938,-3938,562.000,Toneladas,7007.1174377224199288256227758,USD/Toneladas,0.007810131,18,34,33
+368,Iraq,000,Mundo,090111,Café sin tostar ni descafeinar,3401,-3396,491.000,Toneladas,6926.6802443991853360488798371,USD/Toneladas,0.006746202,20,0,-9
+031,Azerbaiyán,000,Mundo,090111,Café sin tostar ni descafeinar,2800,-2800,312.000,Toneladas,8974.358974358974358974358974,USD/Toneladas,0.005553366,56,70,39
+388,Jamaica,000,Mundo,090111,Café sin tostar ni descafeinar,2703,15524,326.000,Toneladas,8291.411042944785276073619632,USD/Toneladas,0.005360981,56,37,35
+800,Uganda,000,Mundo,090111,Café sin tostar ni descafeinar,2124,2460701,6715.000,Toneladas,316.30677587490692479523454952,USD/Toneladas,0.004212929,156,159,190
+728,Sudán del Sur,000,Mundo,090111,Café sin tostar ni descafeinar,2101,-2099,1080.000,Toneladas,1945.3703703703703703703703704,USD/Toneladas,0.004167008,,,
+516,Namibia,000,Mundo,090111,Café sin tostar ni descafeinar,1977,-1971,295.000,Toneladas,6701.6949152542372881355932203,USD/Toneladas,0.003920863,6,48,-6
+748,Eswatini,000,Mundo,090111,Café sin tostar ni descafeinar,1975,-1965,239.000,Toneladas,8263.598326359832635983263598,USD/Toneladas,0.003916135,15,-8,-15
+462,Maldivas,000,Mundo,090111,Café sin tostar ni descafeinar,1749,-1749,107.000,Toneladas,16345.794392523364485981308411,USD/Toneladas,0.003469095,-9,-64,-1
+780,Trinidad y Tobago,000,Mundo,090111,Café sin tostar ni descafeinar,1636,-1611,295.000,Toneladas,5545.7627118644067796610169492,USD/Toneladas,0.00324423,9,94,-4
+417,Kirguistán,000,Mundo,090111,Café sin tostar ni descafeinar,1590,-1590,157.000,Toneladas,10127.388535031847133757961783,USD/Toneladas,0.003153519,70,90,49
+050,Bangladesh,000,Mundo,090111,Café sin tostar ni descafeinar,1508,-1508,184.000,Toneladas,8195.652173913043478260869565,USD/Toneladas,0.002991549,25,52,13
+887,Yemen,000,Mundo,090111,Café sin tostar ni descafeinar,1480,5832,204.000,Toneladas,7254.9019607843137254901960784,USD/Toneladas,0.002934438,-33,24,-42
+320,Guatemala,000,Mundo,090111,Café sin tostar ni descafeinar,1460,1305870,168.000,Toneladas,8690.47619047619047619047619,USD/Toneladas,0.002896483,43,461,43
+586,Pakistán,000,Mundo,090111,Café sin tostar ni descafeinar,1419,-1419,350.000,Toneladas,4054.2857142857142857142857143,USD/Toneladas,0.002815188,101,149,118
+470,Malta,000,Mundo,090111,Café sin tostar ni descafeinar,1390,-1386,140.000,Toneladas,9928.571428571428571428571429,USD/Toneladas,0.002757672,77,19,27
+686,Senegal,000,Mundo,090111,Café sin tostar ni descafeinar,1226,-1165,2613.000,Toneladas,469.19249904324531190202831994,USD/Toneladas,0.002432551,-15,377,-24
+328,Guyana,000,Mundo,090111,Café sin tostar ni descafeinar,1217,-1217,25.000,Toneladas,48680,USD/Toneladas,0.00241311,92,238,-1
+524,Nepal,000,Mundo,090111,Café sin tostar ni descafeinar,1088,-238,250.000,Toneladas,4352,USD/Toneladas,0.00215773,16,3,-2
+052,Barbados,000,Mundo,090111,Café sin tostar ni descafeinar,1057,-1056,96.000,Toneladas,11010.416666666666666666666667,USD/Toneladas,0.002095612,20,45,11
+860,Uzbekistán,000,Mundo,090111,Café sin tostar ni descafeinar,1014,-1014,149.000,Toneladas,6805.3691275167785234899328859,USD/Toneladas,0.002011869,30,88,
+498,"Moldova, República de",000,Mundo,090111,Café sin tostar ni descafeinar,1008,-1008,115.000,Toneladas,8765.217391304347826086956522,USD/Toneladas,0.001999212,19,80,12
+426,Lesoto,000,Mundo,090111,Café sin tostar ni descafeinar,992,-992,61.000,Toneladas,16262.295081967213114754098361,USD/Toneladas,0.001968369,95,10,19
+795,Turkmenistán,000,Mundo,090111,Café sin tostar ni descafeinar,936,-936,129.000,Toneladas,7255.813953488372093023255814,USD/Toneladas,0.001856854,85,-27,
+258,Polinesia Francesa,000,Mundo,090111,Café sin tostar ni descafeinar,864,-864,92.000,Toneladas,9391.30434782608695652173913,USD/Toneladas,0.001713896,20,47,5
+480,Mauricio,000,Mundo,090111,Café sin tostar ni descafeinar,847,-847,90.000,Toneladas,9411.111111111111111111111111,USD/Toneladas,0.001680802,52,52,38
+096,Brunei Darussalam,000,Mundo,090111,Café sin tostar ni descafeinar,654,-654,74.000,Toneladas,8837.837837837837837837837838,USD/Toneladas,0.00129806,57,47,32
+020,Andorra,000,Mundo,090111,Café sin tostar ni descafeinar,609,-469,76.000,Toneladas,8013.157894736842105263157895,USD/Toneladas,0.001207857,96,90,113
+854,Burkina Faso,000,Mundo,090111,Café sin tostar ni descafeinar,563,-503,1665.000,Toneladas,338.13813813813813813813813814,USD/Toneladas,0.001116757,-5,-12,15
+834,"Tanzanía, República Unida de",000,Mundo,090111,Café sin tostar ni descafeinar,535,360739,264.000,Toneladas,2026.5151515151515151515151515,USD/Toneladas,0.001061662,-20,-43,-33
+072,Botsuana,000,Mundo,090111,Café sin tostar ni descafeinar,488,-487,53.000,Toneladas,9207.547169811320754716981132,USD/Toneladas,0.0009669639,-1,-30,-13
+807,Macedonia del Norte,000,Mundo,090111,Café sin tostar ni descafeinar,484,-467,108.000,Toneladas,4481.4814814814814814814814815,USD/Toneladas,0.0009602617,0,25,
+060,Bermudas,000,Mundo,090111,Café sin tostar ni descafeinar,396,-396,10.000,Toneladas,39600,USD/Toneladas,0.0007857775,188,-10,60
+531,Curaçao,000,Mundo,090111,Café sin tostar ni descafeinar,353,-353,30.000,Toneladas,11766.666666666666666666666667,USD/Toneladas,0.0006993801,5,4,13
+540,Nueva Caledonia,000,Mundo,090111,Café sin tostar ni descafeinar,319,-316,16.000,Toneladas,19937.5,USD/Toneladas,0.0006320671,-18,-23,-29
+104,Myanmar,000,Mundo,090111,Café sin tostar ni descafeinar,297,5450,52.000,Toneladas,5711.5384615384615384615384615,USD/Toneladas,0.0005888534,,12034,
+234,Islas Feroe,000,Mundo,090111,Café sin tostar ni descafeinar,269,-269,17.000,Toneladas,15823.529411764705882352941176,USD/Toneladas,0.0005335198,,,
+508,Mozambique,000,Mundo,090111,Café sin tostar ni descafeinar,262,129,17.000,Toneladas,15411.764705882352941176470588,USD/Toneladas,0.0005201175,23,19,26
+226,Guinea Ecuatorial,000,Mundo,090111,Café sin tostar ni descafeinar,259,-200,18.000,Toneladas,14388.888888888888888888888889,USD/Toneladas,0.0005136864,-7,51,1
+064,Bhután,000,Mundo,090111,Café sin tostar ni descafeinar,240,-240,34.000,Toneladas,7058.8235294117647058823529412,USD/Toneladas,0.0004760028,43,121,18
+662,Santa Lucía,000,Mundo,090111,Café sin tostar ni descafeinar,238,-238,11.000,Toneladas,21636.363636363636363636363636,USD/Toneladas,0.0004712054,2,-50,6
+796,Islas Turks y Caicos,000,Mundo,090111,Café sin tostar ni descafeinar,220,-218,12.000,Toneladas,18333.333333333333333333333333,USD/Toneladas,0.0004361512,5,-41,-1
+084,Belice,000,Mundo,090111,Café sin tostar ni descafeinar,203,-203,24.000,Toneladas,8458.333333333333333333333333,USD/Toneladas,0.000403338,15,-28,0
+690,Seychelles,000,Mundo,090111,Café sin tostar ni descafeinar,187,-187,22.000,Toneladas,8500,USD/Toneladas,0.0003717514,11,13,15
+716,Zimbabwe,000,Mundo,090111,Café sin tostar ni descafeinar,166,829,20.000,Toneladas,8300,USD/Toneladas,0.0003282643,259,4755,
+004,Afganistán,000,Mundo,090111,Café sin tostar ni descafeinar,163,-81,29.000,Toneladas,5620.6896551724137931034482759,USD/Toneladas,0.0003225395,,,
+028,Antigua y Barbuda,000,Mundo,090111,Café sin tostar ni descafeinar,159,-159,14.000,Toneladas,11357.142857142857142857142857,USD/Toneladas,0.00031581,4,26,
+706,Somalia,000,Mundo,090111,Café sin tostar ni descafeinar,154,-154,43.000,Toneladas,3581.3953488372093023255813953,USD/Toneladas,0.0003049599,-37,308,
+533,Aruba,000,Mundo,090111,Café sin tostar ni descafeinar,153,-153,15.000,Toneladas,10200,USD/Toneladas,0.0003029754,10,10,15
+418,"Lao, República Democrática Popular",000,Mundo,090111,Café sin tostar ni descafeinar,142,126630,60.000,Toneladas,2366.6666666666666666666666667,USD/Toneladas,0.0002814753,83,-85,
+454,Malawi,000,Mundo,090111,Café sin tostar ni descafeinar,129,1552,75.000,Toneladas,1720,USD/Toneladas,0.000256478,161,1267,90
+304,Groenlandia,000,Mundo,090111,Café sin tostar ni descafeinar,119,-119,7.000,Toneladas,17000,USD/Toneladas,0.0002360181,48,27,36
+384,Côte d'Ivoire,000,Mundo,090111,Café sin tostar ni descafeinar,118,52951,13.000,Toneladas,9076.923076923076923076923077,USD/Toneladas,0.0002344693,17,80,-8
+266,Gabón,000,Mundo,090111,Café sin tostar ni descafeinar,113,-113,30.000,Toneladas,3766.6666666666666666666666667,USD/Toneladas,0.0002241786,,,
+068,"Bolivia, Estado Plurinacional de",000,Mundo,090111,Café sin tostar ni descafeinar,111,16833,11.000,Toneladas,10090.909090909090909090909091,USD/Toneladas,0.0002209129,34,282,22
+024,Angola,000,Mundo,090111,Café sin tostar ni descafeinar,108,4011,13.000,Toneladas,8307.692307692307692307692308,USD/Toneladas,0.000213834,1,-24,-11
+894,Zambia,000,Mundo,090111,Café sin tostar ni descafeinar,102,31028,11.000,Toneladas,9272.727272727272727272727273,USD/Toneladas,0.0002023341,-12,33,-9
+288,Ghana,000,Mundo,090111,Café sin tostar ni descafeinar,78,1056,7.000,Toneladas,11142.857142857142857142857143,USD/Toneladas,0.0001555466,-11,7,25
+262,Djibouti,000,Mundo,090111,Café sin tostar ni descafeinar,76,14444,13.000,Toneladas,5846.1538461538461538461538462,USD/Toneladas,0.0001505486,57,744,
+242,Fiji,000,Mundo,090111,Café sin tostar ni descafeinar,75,-72,5.000,Toneladas,15000,USD/Toneladas,0.0001477901,64,92,12
+548,Vanuatu,000,Mundo,090111,Café sin tostar ni descafeinar,67,-67,9.000,Toneladas,7444.4444444444444444444444444,USD/Toneladas,0.0001336329,29,-7,28
+231,Etiopía,000,Mundo,090111,Café sin tostar ni descafeinar,65,2800076,11.000,Toneladas,5909.0909090909090909090909091,USD/Toneladas,0.0001294791,-28,115,
+180,"Congo, República Democrática del",000,Mundo,090111,Café sin tostar ni descafeinar,64,33435,62.000,Toneladas,1032.2580645161290322580645161,USD/Toneladas,0.0001267317,20,-51,10
+694,Sierra Leona,000,Mundo,090111,Café sin tostar ni descafeinar,63,5855,19.000,Toneladas,3315.7894736842105263157894737,USD/Toneladas,0.0001240943,-34,,
+862,"Venezuela, República Bolivariana de",000,Mundo,090111,Café sin tostar ni descafeinar,56,42126,6.000,Toneladas,9333.333333333333333333333333,USD/Toneladas,0.0001106647,2,41,
+275,"Palestina, Estado de",000,Mundo,090111,Café sin tostar ni descafeinar,54,-51,8.000,Toneladas,6750,USD/Toneladas,0.0001071006,84,-98,
+450,Madagascar,000,Mundo,090111,Café sin tostar ni descafeinar,52,24422,19.000,Toneladas,2736.8421052631578947368421053,USD/Toneladas,0.0001030559,60,-98,86
+666,San Pedro y Miquelón,000,Mundo,090111,Café sin tostar ni descafeinar,46,-46,9.000,Toneladas,5111.1111111111111111111111111,USD/Toneladas,0.00009173244,49,248,
+670,San Vicente y las Granadinas,000,Mundo,090111,Café sin tostar ni descafeinar,43,-43,1.000,Toneladas,43000,USD/Toneladas,0.00008620802,618,3,
+604,Perú,000,Mundo,090111,Café sin tostar ni descafeinar,41,1796816,1.000,Toneladas,41000,USD/Toneladas,0.00008078561,-38,304,-74
+136,Islas Caimanes,000,Mundo,090111,Café sin tostar ni descafeinar,38,764,5.000,Toneladas,7600,USD/Toneladas,0.00007501331,48,132,
+535,"Bonaire, San Estaquio y Saba",000,Mundo,090111,Café sin tostar ni descafeinar,37,-37,4.000,Toneladas,9250,USD/Toneladas,0.00007338377,43,32,36
+292,Gibraltar,000,Mundo,090111,Café sin tostar ni descafeinar,33,-33,1.000,Toneladas,33000,USD/Toneladas,0.00006614654,-31,17,-40
+204,Benin,000,Mundo,090111,Café sin tostar ni descafeinar,29,-29,65.000,Toneladas,446.15384615384615384615384615,USD/Toneladas,0.00005828553,49,291,127
+837,Rancho de naves y aeronaves,000,Mundo,090111,Café sin tostar ni descafeinar,28,-28,0.000,No medida,,,0.00005581621,23,-92,-13
+178,Congo,000,Mundo,090111,Café sin tostar ni descafeinar,27,23343,1.000,Toneladas,27000,USD/Toneladas,0.00005293236,,-91,
+478,Mauritania,000,Mundo,090111,Café sin tostar ni descafeinar,27,-27,48.000,Toneladas,562.5,USD/Toneladas,0.00005323107,-41,-78,-42
+882,Samoa,000,Mundo,090111,Café sin tostar ni descafeinar,26,-26,12.000,Toneladas,2166.6666666666666666666666667,USD/Toneladas,0.00005166502,88,394,
+762,Tayikistán,000,Mundo,090111,Café sin tostar ni descafeinar,24,-24,3.000,Toneladas,8000,USD/Toneladas,0.00004680694,101,-52,
+520,Naoero,000,Mundo,090111,Café sin tostar ni descafeinar,24,-24,2.000,Toneladas,12000,USD/Toneladas,0.00004687729,-20,-27,-24
+238,Islas (Malvinas) Falkland,000,Mundo,090111,Café sin tostar ni descafeinar,24,-24,1.000,Toneladas,24000,USD/Toneladas,0.00004847319,45,196,
+574,Isla Norfolk,000,Mundo,090111,Café sin tostar ni descafeinar,23,-23,0.000,Toneladas,,,0.00004548373,-7,33,
+184,Islas Cook,000,Mundo,090111,Café sin tostar ni descafeinar,21,-21,1.000,Toneladas,21000,USD/Toneladas,0.0000421076,-29,148,
+654,Santa Helena,000,Mundo,090111,Café sin tostar ni descafeinar,21,-2,6.000,Toneladas,3500,USD/Toneladas,0.00004180199,59,85,27
+584,Islas Marshall,000,Mundo,090111,Café sin tostar ni descafeinar,20,-20,0.000,Toneladas,,,0.0000398045,-9,-4,
+566,Nigeria,000,Mundo,090111,Café sin tostar ni descafeinar,19,606,3.000,Toneladas,6333.3333333333333333333333333,USD/Toneladas,0.00003779807,-6,-98,
+174,Comoras,000,Mundo,090111,Café sin tostar ni descafeinar,19,-19,15.000,Toneladas,1266.6666666666666666666666667,USD/Toneladas,0.00003689489,3,246,-4
+598,Papua Nueva Guinea,000,Mundo,090111,Café sin tostar ni descafeinar,14,301714,1.000,Toneladas,14000,USD/Toneladas,0.00002769283,1,-82,-10
+678,Sao Tomé y Príncipe,000,Mundo,090111,Café sin tostar ni descafeinar,13,-13,1.000,Toneladas,13000,USD/Toneladas,0.00002508586,90,126,
+562,Níger,000,Mundo,090111,Café sin tostar ni descafeinar,11,-9,9.000,Toneladas,1222.2222222222222222222222222,USD/Toneladas,0.00002169126,-34,,-40
+092,Islas Vírgenes Británicas,000,Mundo,090111,Café sin tostar ni descafeinar,11,-11,0.000,Toneladas,,,0.00002085498,-22,180,
+166,Islas Cocos (Keeling),000,Mundo,090111,Café sin tostar ni descafeinar,10,-10,4.000,Toneladas,2500,USD/Toneladas,0.00002054286,,,
+212,Dominica,000,Mundo,090111,Café sin tostar ni descafeinar,10,-5,2.000,Toneladas,5000,USD/Toneladas,0.00001934129,-32,-42,46
+108,Burundi,000,Mundo,090111,Café sin tostar ni descafeinar,9,77748,4.000,Toneladas,2250,USD/Toneladas,0.00001755454,220,-100,
+232,Eritrea,000,Mundo,090111,Café sin tostar ni descafeinar,8,-8,2.000,Toneladas,4000,USD/Toneladas,0.00001681879,44,-21,
+120,Camerún,000,Mundo,090111,Café sin tostar ni descafeinar,7,43200,1.000,Toneladas,7000,USD/Toneladas,0.00001342853,-54,,
+659,Saint Kitts y Nevis,000,Mundo,090111,Café sin tostar ni descafeinar,7,288,0.000,Toneladas,,,0.00001399679,130,112,
+768,Togo,000,Mundo,090111,Café sin tostar ni descafeinar,6,4801,6.000,Toneladas,1000,USD/Toneladas,0.00001125786,29,-55,2
+646,Ruanda,000,Mundo,090111,Café sin tostar ni descafeinar,5,128422,1.000,Toneladas,5000,USD/Toneladas,0.000009559566,-67,-98,-75
+624,Guinea-Bissau,000,Mundo,090111,Café sin tostar ni descafeinar,5,23,1.000,Toneladas,5000,USD/Toneladas,0.000009916726,-3,-82,
+570,Niué,000,Mundo,090111,Café sin tostar ni descafeinar,5,-5,1.000,Toneladas,5000,USD/Toneladas,0.000009715336,-9,74,0
+558,Nicaragua,000,Mundo,090111,Café sin tostar ni descafeinar,5,918893,0.000,Toneladas,,,0.00001042512,-17,,
+466,Malí,000,Mundo,090111,Café sin tostar ni descafeinar,5,35,1.000,Toneladas,5000,USD/Toneladas,0.00001078948,-61,-98,
+430,Liberia,000,Mundo,090111,Café sin tostar ni descafeinar,3,97,5.000,Toneladas,600,USD/Toneladas,0.000006614852,-18,66,10
+308,Granada,000,Mundo,090111,Café sin tostar ni descafeinar,3,-3,0.000,Toneladas,,,0.000005950035,,-91,
+148,Chad,000,Mundo,090111,Café sin tostar ni descafeinar,3,-3,0.000,Toneladas,,,0.000006699468,,-68,
+162,Isla de Navidad,000,Mundo,090111,Café sin tostar ni descafeinar,3,-3,0.000,Toneladas,,,0.000006265903,,,
+222,El Salvador,000,Mundo,090111,Café sin tostar ni descafeinar,2,165986,0.000,Toneladas,,,0.000003242134,-77,-85,
+324,Guinea,000,Mundo,090111,Café sin tostar ni descafeinar,2,4377,0.000,Toneladas,,,0.000004039719,-67,,
+876,Islas Wallis y Fortuna,000,Mundo,090111,Café sin tostar ni descafeinar,2,-2,0.000,Toneladas,,,0.000004091183,75,,
+296,Kiribati,000,Mundo,090111,Café sin tostar ni descafeinar,1,-1,0.000,Toneladas,,,0.000002442971,-38,,
+144,Sri Lanka,000,Mundo,090111,Café sin tostar ni descafeinar,1,75,0.000,Toneladas,,,0.000001983345,-30,,
+332,Haití,000,Mundo,090111,Café sin tostar ni descafeinar,,781,,,,,,,,
+626,Timor-Leste,000,Mundo,090111,Café sin tostar ni descafeinar,,30466,,,,,,,,
+612,Pitcairn,000,Mundo,090111,Café sin tostar ni descafeinar,,108,,,,,,,,
