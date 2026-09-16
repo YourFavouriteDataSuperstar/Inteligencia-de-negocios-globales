@@ -29,3 +29,9 @@ Proyectos finales/generadores/ejecutados/
 Proyectos finales/**/sitio/index.html
 Proyectos finales/**/sitio/*_files/
 Proyectos finales/**/sitio/.quarto/
+
+/.quarto/
+**/*.quarto_ipynb
+
+# Configuracion local del editor (ruta del interprete de esta maquina)
+.vscode/
