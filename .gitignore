@@ -23,3 +23,9 @@ Proyectos finales/**/datos_crudos/
 Proyectos finales/Grupo 6/datos/Anexo_Datos_Curuba_Equipo6/00_LEEME.md
 
 Proyectos finales/generadores/ejecutados/
+
+# Sitios web de los proyectos finales: el HTML lleva nombres de estudiantes,
+# solo se versiona el fuente (index.ipynb y ean.scss)
+Proyectos finales/**/sitio/index.html
+Proyectos finales/**/sitio/*_files/
+Proyectos finales/**/sitio/.quarto/

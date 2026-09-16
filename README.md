@@ -172,3 +172,27 @@ World Bank. (2025). *World Development Indicators*. https://data.worldbank.org
 Yu, R., Cai, J., & Leung, P. (2009). The normalized revealed comparative advantage index. *The Annals of Regional Science, 43*(1), 267–282.
 
 La lista completa de referencias en formato APA 7, incluyendo la documentación de todas las bibliotecas utilizadas, está al final de cada cuaderno.
+
+---
+
+## Del cuaderno al sitio web
+
+Cada proyecto final esta tambien convertido en un **sitio web de una sola pagina**, generado con [Quarto](https://quarto.org) a partir del cuaderno que entrego el equipo: las mismas tablas, las mismas graficas y los mismos analisis, con el codigo plegado (se despliega con *Ver codigo*) y navegacion lateral por secciones.
+
+En `Proyectos finales/Grupo N/sitio/` queda el fuente:
+
+| Archivo | Que es |
+|---|---|
+| `index.ipynb` | El cuaderno entregado, con la configuracion de Quarto en la primera celda |
+| `ean.scss` | Los colores institucionales de la Universidad EAN |
+
+Para regenerarlo, con Quarto instalado:
+
+```bash
+cd "Proyectos finales/Grupo 1/sitio"
+quarto render index.ipynb
+```
+
+El `index.html` resultante pesa unos 3 MB y es **autocontenido**: graficas, tablas y estilos van dentro del archivo, asi que se abre con doble clic y se publica subiendolo a cualquier hosting estatico. **No se versiona en este repositorio**, porque la portada lleva los nombres de los integrantes, igual que ocurre con las fichas tecnicas.
+
+El paso a paso para publicarlo esta en **[COMO-PUBLICAR-EL-SITIO.md](Proyectos%20finales/COMO-PUBLICAR-EL-SITIO.md)**: cada equipo publica el suyo en **su propia cuenta** de GitHub con GitHub Pages, de modo que el sitio queda a su nombre y les sirve de portafolio.

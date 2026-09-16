@@ -1,0 +1,23 @@
+/*-- scss:defaults --*/
+$primary: #0033a3;
+$body-color: #1c2333;
+$link-color: #07a3b2;
+$font-family-sans-serif: "Source Sans 3", "Segoe UI", -apple-system, sans-serif;
+$headings-font-weight: 700;
+$toc-color: #0033a3;
+$code-block-bg: #f5f8fa;
+$code-block-border-left: #07a3b2;
+
+/*-- scss:rules --*/
+h1, h2 { color: #0033a3; }
+h1.title { color: #0033a3; font-weight: 800; line-height: 1.15; }
+h2 { border-bottom: 2px solid #9fe0e6; padding-bottom: .25rem; margin-top: 2.5rem; }
+h3 { color: #07a3b2; }
+.quarto-title-block .quarto-title-banner { background: linear-gradient(135deg,#0033a3 0%,#07a3b2 100%); }
+blockquote { border-left: 4px solid #07a3b2; background: #f5f8fa; padding: .75rem 1rem; color: #1c2333; font-style: normal; }
+table { font-size: .9rem; }
+thead th { background: #f5f8fa; color: #0033a3; border-bottom: 2px solid #9fe0e6 !important; }
+.cell-output img, .cell-output-display img { max-width: 100%; height: auto; }
+details > summary, .code-fold summary { color: #07a3b2; font-weight: 600; }
+#TOC, .sidebar nav[role=doc-toc] ul > li > a.active { color: #0033a3; border-left-color: #07a3b2 !important; }
+.pie-ean { margin-top: 3rem; padding-top: 1rem; border-top: 2px solid #9fe0e6; font-size: .85rem; color: #5a6472; }
